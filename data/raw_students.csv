@@ -1,0 +1,19 @@
+student_id,student_name,department,math_marks,science_marks,english_marks,attendance
+101,Aarav Sharma,CSE,88,91,84,92
+102,Diya Verma,IT,76,81,79,88
+103,Rohan Gupta,CSE,35,42,38,71
+104,Ananya Singh,ECE,91,89,94,96
+105,Kabir Khan,IT,67,72,70,82
+106,Meera Joshi,ECE,82,85,80,91
+107,Arjun Patel,CSE,45,51,48,78
+108,Isha Malhotra,IT,95,93,97,98
+109,Vihaan Rao,ECE,29,34,39,65
+110,Sara Ali,CSE,73,69,77,85
+111,Reyansh Das,IT,58,62,60,76
+112,Myra Kapoor,ECE,86,90,88,94
+113,Dev Nair,CSE,64,68,66,80
+114,Anaya Mehta,IT,39,44,41,73
+115,Aditya Sen,ECE,78,74,82,87
+115,Aditya Sen,ECE,78,74,82,87
+116,Kiara Roy,CSE,,79,83,89
+117,Neil Thomas,IT,71,75,69,
